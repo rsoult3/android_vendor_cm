@@ -1383,4 +1383,26 @@
   <apn carrier="Movistar UY" mcc="748" mnc="07" apn="apnumt.movistar.com.uy" user="movistar" password="movistar" type="default,supl" />
   <apn carrier="Claro UY" mcc="748" mnc="10" apn="gprs.claro.com.uy" user="ctigpr" password="ctigpr999" type="default,supl" />
   <apn carrier="Claro UY MMS" mcc="748" mnc="10" apn="mms.ctimovil.com.uy" user="ctimms" password="ctimms999" mmsc="http://mms.ctimovil.com.uy" mmsproxy="170.051.255.240" mmsport="9201" type="mms" />
+  <apn carrier="Red Bull" mcc="505" mnc="03" apn="purtona.wap" type="default,supl" />
+  <apn carrier="Red Bull MMS" mcc="505" mnc="03" apn="mms" mmsc="http://purtona.mms/mmssend" mmsproxy="10.202.2.20:8080" mmsport="8080" authtype="1" type="mms" />  
+  <apn carrier="Crazy Johns" mcc="505" mnc="03" apn="purtona.net" type="default,supl" />
+  <apn carrier="Crazy John’s MMS" mcc="505" mnc="03" apn="mms" mmsc="http://purtona.mms/mmssend" mmsproxy="10.202.2.20:8080" mmsport="8080" authtype="1" type="mms" />
+  <apn carrier="STC" mcc="420" mnc="01" apn="jawalnet.com.sa" server="" mmsc=""  type="default,supl"/>
+  <apn carrier="STC MMS" mcc="420" mnc="01" apn="mms.net.sa" mmsc="http://mms.net.sa" mmsproxy="10.1.1.1" mmsport="8080"  type="mms"/>
+  <apn carrier="Safaricom Web" mcc="639" mnc="02" apn="web.safaricom.com" user="web" password="web" type="default,supl" />
+  <apn carrier="Safaricom Saf" mcc="639" mnc="02" apn="safaricom" user="saf" password="data" type="default,supl" />
+  <apn carrier="Airtel Saf" mcc="639" mnc="03" apn="ke.celtel.com" user="internet" password="internet" type="default,supl" />
+  <apn carrier="Viaero Internet" mcc="310" mnc="450" apn="internet.vedge.com" type="default" />
+  <apn carrier="Viaero MMS" mcc="310" mnc="450" apn="mms" mmsc="http://mms.viaero.com" mmsproxy="10.168.3.23" mmsport="9401" type="mms" />  
+  <apn carrier="Digicel" mcc="362" mnc="69" apn="web.digicelcuracao.com" user="wapcu" password="wap03cur" proxy="172.16.7.12" port="8080" type="default" />
+  <apn carrier="UTS Setel" mcc="362" mnc="91" apn="utsnet.uts.an" type="default" />
+  <apn carrier="Telcell" mcc="362" mnc="51" apn="internet.telcell.an" user="TelCell" password="0000" type="default" />
+  <apn carrier="Cellcard" mcc="456" mnc="01" apn="cellcard" user="mobitel" password="mobitel" proxy="203.144.95.100" port="8080" type="default,supl" />
+  <apn carrier="hello" mcc="456" mnc="02" apn="hellowww" type="default,supl" />
+  <apn carrier="qb" mcc="456" mnc="04" apn="wap" type="default,supl" />
+  <apn carrier="Star-Cell" mcc="456" mnc="05" apn="internet" type="default,supl" />
+  <apn carrier="Smart Mobile" mcc="456" mnc="06" apn="smart" proxy="10.12.1.140" port="8080" type="default,supl" />
+  <apn carrier="Beeline" mcc="456" mnc="09" apn="gprs.beeline.com.kh" type="default,supl" />
+  <apn carrier="Metfone" mcc="456" mnc="08" apn="metfone" type="default,supl" />
+  <apn carrier="Mfone" mcc="456" mnc="18" apn="Camshin" type="default,supl" />
 </apns>
